@@ -4,7 +4,7 @@ setup(
     name = 'QApplication',
     version= '0.0.1',
     author= 'sunny savita',
-    author_email= 'sunny.savita@gmail.com',
+    author_email= 'parida.gaja@gmail.com',
     packages= find_packages(),
     install_requires = []
 
